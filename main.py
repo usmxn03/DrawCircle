@@ -1,3 +1,7 @@
+This code was created by Usman 2152992
+
+//Start of program
+
 import turtle
     
       
@@ -12,3 +16,5 @@ for i in range(50):
     t.up()
     t.sety((r * i)*(-1))
     t.down()
+
+//End of program
